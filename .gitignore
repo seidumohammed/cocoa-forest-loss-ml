@@ -1,0 +1,11 @@
+data/raw/*
+data/processed/*
+data/chips/*
+!data/**/.gitkeep
+__pycache__/
+.pytest_cache/
+*.pt
+*.pth
+.env
+
+data/*.log
